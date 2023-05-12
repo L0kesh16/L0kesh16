@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Rookie<br>👯 I’m Currently Studing in College<br>🌱 I’m Interested in Full Stack Webdevelopment<br>💬 I have no special talent. I am only Passionately Curious 
+🔭 Rookie<br>👯 I’m Currently Studing in College<br>🌱 I’m Interested in Full Stack Web development<br>💬 I have no special talent. I am only Passionately Curious 
 
 
 # 💻 Tech Stack:
